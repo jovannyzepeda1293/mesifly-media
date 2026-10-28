@@ -1,0 +1,73 @@
+{
+  "video_name": "costo-platillo-short.mp4",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Cuánto te cuesta REALMENTE cada platillo?",
+      "body": "Calcúlalo en 5 pasos y ponle un precio que sí te deje ganancia.",
+      "hint": "Desliza para ver los pasos"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "title": "Haz una receta estándar",
+      "body": [
+        "Anota cada ingrediente en gramos, mililitros o piezas.",
+        "Incluye salsas, aceite, guarnición y empaque.",
+        "Así todos sirven igual y tu costo no cambia cada día."
+      ],
+      "label": "PASO 1 DE 5"
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "title": "Saca el costo por unidad",
+      "body": [
+        "Costo por unidad = precio de compra ÷ cantidad comprada."
+      ],
+      "example": "Ejemplo: 1 kg de carne a $9\nUna porción de 150 g = $1.35",
+      "label": "PASO 2 DE 5"
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "title": "Cuenta la merma",
+      "body": [
+        "Lo que se pierde al limpiar o cocinar también lo pagas.",
+        "Costo real = precio por kilo ÷ rendimiento."
+      ],
+      "example": "Ejemplo: pechuga a $8/kg, rinde 70%\nCosto real = $11.43/kg",
+      "label": "PASO 3 DE 5"
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "title": "Suma todo + 5% extra",
+      "body": [
+        "Suma cada ingrediente de la receta.",
+        "Agrega 3% a 5% para lo que no se mide."
+      ],
+      "example": "Ejemplo: hamburguesa con papas\n$2.90 + 5% = $3.05",
+      "label": "PASO 4 DE 5"
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "title": "Calcula el precio",
+      "body": [
+        "Precio = costo ÷ % de costo objetivo.",
+        "Referencia común: entre 28% y 35%."
+      ],
+      "example": "Ejemplo: $3.05 ÷ 0.30 = $10.17\nVéndela entre $9.90 y $10.50",
+      "label": "PASO 5 DE 5"
+    },
+    {
+      "type": "cta",
+      "title": "¿Subió un ingrediente? Cambia tu precio en segundos",
+      "body": "Con Mesifly tu menú digital vive en un link y QR. Recibe pedidos al instante en Telegram, sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
