@@ -1,0 +1,76 @@
+{
+  "article_slug": "como-conseguir-resenas-en-google-restaurante",
+  "article_url": "https://blog.mesifly.com/como-conseguir-resenas-en-google-restaurante/",
+  "video_name": "resenas-google-short.mp4",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Cómo conseguir más reseñas en Google?",
+      "body": "5 tips para que tus clientes te recomienden, sin trucos ni reseñas falsas.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Ordena tu ficha",
+      "body": [
+        "Verifica tu Perfil de Empresa de Google.",
+        "Horario real, fotos actuales y categoría correcta.",
+        "Agrega el link a tu menú."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Usa un enlace y un QR",
+      "body": [
+        "Copia el enlace directo para pedir reseñas.",
+        "Conviértelo en QR con una frase corta.",
+        "Ponlo en el ticket, la caja y los empaques."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Pídela en el momento justo",
+      "body": [
+        "Justo cuando el cliente dice que le gustó.",
+        "Todo tu equipo usa la misma frase."
+      ],
+      "example": "«¡Qué gusto! ¿Nos ayudas contándolo\nen Google? Aquí está el QR»"
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Responde todas",
+      "body": [
+        "Agradece y menciona algo concreto.",
+        "En las malas: reconoce y di qué cambiaste.",
+        "Contesta en uno o dos días."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Lo que nunca debes hacer",
+      "body": [
+        "Comprar reseñas o pedir opiniones falsas.",
+        "Dar descuentos a cambio de reseñas.",
+        "Discutir en público con un cliente."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Menos errores en pedidos = mejores reseñas",
+      "body": "Con Mesifly tu cliente pide desde un link o QR con precios al día, y tú recibes el pedido al instante en Telegram. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
