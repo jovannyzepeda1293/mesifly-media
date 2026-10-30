@@ -1,0 +1,77 @@
+{
+  "article_slug": "ideas-para-promocionar-una-cafeteria",
+  "article_url": "https://blog.mesifly.com/ideas-para-promocionar-una-cafeteria/",
+  "video_name": "promocionar-cafeteria-short.mp4",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA CAFETERÍAS",
+      "title": "¿Cómo atraer más clientes a tu cafetería?",
+      "body": "5 ideas de bajo costo que puedes empezar esta misma semana.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Define qué te hace único",
+      "body": [
+        "«Buen café» lo dicen todos.",
+        "Busca algo concreto: pan de casa, café de origen.",
+        "Resúmelo en una frase corta."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Pon al día tu Google",
+      "body": [
+        "Horario, dirección y teléfono correctos.",
+        "Fotos reales con buena luz.",
+        "Agrega el link a tu menú."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Promos en horas lentas",
+      "body": [
+        "No bajes precios todo el día.",
+        "Enfócate en las horas que cuesta llenar.",
+        "Calcula tu margen antes del descuento."
+      ],
+      "example": "«Café + pan» a media tarde\nSegunda bebida a mitad de precio"
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Alíate con tus vecinos",
+      "body": [
+        "Oficinas: pedidos para juntas.",
+        "Gimnasios: descuento con credencial.",
+        "Lleva una muestra al proponer."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Mide y ajusta",
+      "body": [
+        "Pregunta: «¿Cómo nos conociste?»",
+        "Compara ventas antes y después de la promo.",
+        "Quédate con lo que trajo clientes."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Café para llevar, sin fila",
+      "body": "Con Mesifly tu cliente pide desde un link o QR sin registrarse, y tú recibes el pedido al instante en Telegram. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
