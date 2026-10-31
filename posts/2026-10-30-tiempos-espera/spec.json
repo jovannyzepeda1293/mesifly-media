@@ -1,0 +1,77 @@
+{
+  "article_slug": "como-reducir-tiempos-de-espera-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-reducir-tiempos-de-espera-en-un-restaurante/",
+  "video_name": "tiempos-espera-short.mp4",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES",
+      "title": "¿Tus clientes esperan demasiado?",
+      "body": "5 tips para atender más rápido sin contratar más personal.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Mide antes de cambiar",
+      "body": [
+        "Anota cuándo se sienta, pide y recibe.",
+        "Hazlo en tus horas más llenas.",
+        "Así ves dónde está el atorón."
+      ],
+      "example": "8 min para poder pedir\n5 min para recibir = pide más rápido"
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Menú QR en cada mesa",
+      "body": [
+        "El cliente decide desde el primer segundo.",
+        "Fotos y descripciones cortas.",
+        "Marca lo que se agota."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Pedidos por escrito",
+      "body": [
+        "Menos idas y vueltas del mesero.",
+        "Notas como «sin cebolla» claras.",
+        "La cocina empieza antes."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Prepara antes de abrir",
+      "body": [
+        "Lista diaria según lo que más vendes.",
+        "Salsas y guarniciones porcionadas.",
+        "Cocina dividida por estaciones."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Plan para la hora pico",
+      "body": [
+        "Refuerza personal solo esas horas.",
+        "Sirve primero las bebidas.",
+        "Lleva la cuenta sin que la pidan."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Menos espera desde la mesa",
+      "body": "Con Mesifly tu cliente ve el menú y pide desde un QR, sin registrarse. Tú recibes el pedido al instante en Telegram. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
