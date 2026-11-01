@@ -1,0 +1,77 @@
+{
+  "article_slug": "como-vender-mas-en-temporada-baja",
+  "article_url": "https://blog.mesifly.com/como-vender-mas-en-temporada-baja/",
+  "video_name": "temporada-baja-short.mp4",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Tu local se siente vacío este mes?",
+      "body": "5 tips para vender más en temporada baja.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Conoce tu temporada baja",
+      "body": [
+        "Revisa tus ventas de los últimos 12 meses.",
+        "Marca los días y horarios que siempre bajan.",
+        "Anota la causa: clima, vacaciones, quincenas."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Promos solo en horas lentas",
+      "body": [
+        "Combo de media tarde: café + postre.",
+        "Menú del día a precio cerrado.",
+        "Nada de descuentos para todos todo el día."
+      ],
+      "example": "Combo a $4.50 con costo de $1.50\n= sigue dejando ganancia"
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Sube el ticket promedio",
+      "body": [
+        "Ofrece un complemento lógico.",
+        "Arma paquetes para compartir.",
+        "Sugiere sin presionar."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Reactiva a tus frecuentes",
+      "body": [
+        "Tarjeta de sellos sencilla.",
+        "Mándales el platillo del mes y tu menú.",
+        "Un beneficio solo para ellos."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Facilita pedir para llevar",
+      "body": [
+        "Menú en línea que abra en cualquier celular.",
+        "Comparte el link en redes y en Google.",
+        "Empaques que cuiden la comida."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Que pedirte sea fácil todo el año",
+      "body": "Con Mesifly tu cliente abre tu menú desde un link o QR y pide sin registrarse. Tú recibes el pedido al instante en Telegram. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
