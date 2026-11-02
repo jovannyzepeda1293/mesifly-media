@@ -1,0 +1,79 @@
+{
+  "article_slug": "punto-de-equilibrio-de-un-restaurante",
+  "article_url": "https://blog.mesifly.com/punto-de-equilibrio-de-un-restaurante/",
+  "video_name": "punto-equilibrio-short.mp4",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Cuántos clientes necesitas para no perder?",
+      "body": "Calcula tu punto de equilibrio en 5 pasos.",
+      "hint": "Desliza para ver los pasos"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "PASO 1 DE 5",
+      "title": "Suma tus costos fijos",
+      "body": [
+        "Renta, sueldos (también el tuyo) y servicios.",
+        "Promedia los últimos 3 meses.",
+        "Gastos anuales: divídelos entre 12."
+      ],
+      "example": "Ejemplo: cafetería pequeña\nCostos fijos = $6,000 al mes"
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "PASO 2 DE 5",
+      "title": "Saca tus costos variables",
+      "body": [
+        "Ingredientes, empaques y comisiones.",
+        "Exprésalos como % de lo que vendes.",
+        "Usa tu ticket promedio real."
+      ],
+      "example": "Ticket de $12 con 40% variables\n= $4.80 por ticket"
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "PASO 3 DE 5",
+      "title": "Calcula tu margen",
+      "body": [
+        "Ticket promedio menos costo variable.",
+        "Ese dinero paga renta, sueldos y ganancia."
+      ],
+      "example": "$12 - $4.80\n= $7.20 de margen por ticket"
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "PASO 4 DE 5",
+      "title": "Conviértelo en meta diaria",
+      "body": [
+        "Costos fijos ÷ margen = tickets al mes.",
+        "Divide entre los días que abres.",
+        "Redondea siempre hacia arriba."
+      ],
+      "example": "$6,000 ÷ $7.20 = 834 al mes\n834 ÷ 26 días = 33 tickets al día"
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "PASO 5 DE 5",
+      "title": "Bájalo con 3 palancas",
+      "body": [
+        "Sube el ticket con combos y extras.",
+        "Baja merma y comisiones.",
+        "Recorta gastos fijos que no aportan."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Cuida tu margen en cada pedido",
+      "body": "Con Mesifly tus clientes piden desde tu menú en un link o QR, sin registrarse. Tú recibes el pedido al instante en Telegram. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
