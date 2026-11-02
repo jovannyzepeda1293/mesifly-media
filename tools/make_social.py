@@ -9,7 +9,8 @@ Tipos de slide:
   {"type":"cta","title":"...","body":"...","button":"Prueba 14 días gratis","url":"app.mesifly.com"}
 Reglas de texto: Poppins no tiene flechas (→); usa «=» o texto. Máx. ~3 viñetas cortas por slide.
 
-Salida: feed_01.jpg… (1080x1350, carrusel IG/FB), vertical_01.jpg… (1080x1920) y el video vertical MP4 (H.264, 30 fps, audio silencioso).
+Salida: feed_01.jpg… (1080x1350, carrusel IG/FB), vertical_01.jpg… (1080x1920) y el video vertical MP4 (H.264, 30 fps) con música de fondo tranquila.
+Música: pistas propias en tools/music/ (python3 tools/make_music.py). Opcional en spec.json: "music": "calma-cafe" | "tarde-tranquila" | "mesa-lista" | "none"; si se omite, rota según el nombre del video.
 """
 import os, sys
 from PIL import Image, ImageDraw, ImageFont
@@ -140,7 +141,23 @@ def render(slide, idx, total, W, H):
 
 
 
-def build_video(out_dir, n, name):
+MUSIC_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "music")
+
+
+def pick_music(name, music=None):
+    """Pista de tools/music/ (propias, sin derechos de terceros). spec.music la fija; si no, rota por nombre."""
+    if music == "none" or not os.path.isdir(MUSIC_DIR):
+        return None
+    tracks = sorted(f for f in os.listdir(MUSIC_DIR) if f.endswith(".m4a"))
+    if not tracks:
+        return None
+    if music and music + ".m4a" in tracks:
+        return os.path.join(MUSIC_DIR, music + ".m4a")
+    import zlib
+    return os.path.join(MUSIC_DIR, tracks[zlib.crc32(name.encode()) % len(tracks)])
+
+
+def build_video(out_dir, n, name, music=None):
     import subprocess
     durs = [3.5] + [4.2] * (n - 2) + [5.0]
     xf = 0.4
@@ -148,15 +165,21 @@ def build_video(out_dir, n, name):
     for i, d in enumerate(durs, 1):
         cmd += ["-loop", "1", "-t", str(d), "-i", os.path.join(out_dir, f"vertical_{i:02d}.jpg")]
     total = sum(durs) - xf * (n - 1)
-    cmd += ["-f", "lavfi", "-t", f"{total:.2f}", "-i", "anullsrc=r=44100:cl=stereo"]
+    track = pick_music(name, music)
+    if track:
+        cmd += ["-t", f"{total:.2f}", "-i", track]
+    else:
+        cmd += ["-f", "lavfi", "-t", f"{total:.2f}", "-i", "anullsrc=r=44100:cl=stereo"]
     parts = [f"[{i}:v]fps=30,format=yuv420p,setsar=1[v{i}]" for i in range(n)]
+    if track:
+        parts.append(f"[{n}:a]volume=0.8,afade=t=in:d=1,afade=t=out:st={total - 2:.2f}:d=2[aout]")
     prev, off = "v0", 0.0
     for i in range(1, n):
         off += durs[i - 1] - xf
         out = "vout" if i == n - 1 else f"x{i}"
         parts.append(f"[{prev}][v{i}]xfade=transition=slideleft:duration={xf}:offset={off:.2f}[{out}]")
         prev = out
-    cmd += ["-filter_complex", ";".join(parts), "-map", "[vout]", "-map", f"{n}:a",
+    cmd += ["-filter_complex", ";".join(parts), "-map", "[vout]", "-map", "[aout]" if track else f"{n}:a",
             "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-pix_fmt", "yuv420p",
             "-c:a", "aac", "-b:a", "128k", "-shortest", "-movflags", "+faststart",
             os.path.join(out_dir, name)]
@@ -172,7 +195,7 @@ def main(spec_path, out_dir):
     for (W, H, tag) in [(1080, 1350, "feed"), (1080, 1920, "vertical")]:
         for i, s in enumerate(slides, 1):
             render(s, i, total, W, H).save(os.path.join(out_dir, f"{tag}_{i:02d}.jpg"), "JPEG", quality=88, optimize=True)
-    build_video(out_dir, total, spec.get("video_name", "video.mp4"))
+    build_video(out_dir, total, spec.get("video_name", "video.mp4"), spec.get("music"))
     print("OK", out_dir)
 
 
