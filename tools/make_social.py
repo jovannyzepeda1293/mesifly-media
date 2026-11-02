@@ -9,8 +9,8 @@ Tipos de slide:
   {"type":"cta","title":"...","body":"...","button":"Prueba 14 días gratis","url":"app.mesifly.com"}
 Reglas de texto: Poppins no tiene flechas (→); usa «=» o texto. Máx. ~3 viñetas cortas por slide.
 
-Salida: feed_01.jpg… (1080x1350, carrusel IG/FB), vertical_01.jpg… (1080x1920) y el video vertical MP4 (H.264, 30 fps) con música de fondo tranquila.
-Música: pistas propias en tools/music/ (python3 tools/make_music.py). Opcional en spec.json: "music": "calma-cafe" | "tarde-tranquila" | "mesa-lista" | "none"; si se omite, rota según el nombre del video.
+Salida: feed_01.jpg… (1080x1350, carrusel IG/FB), vertical_01.jpg… (1080x1920) y el video vertical MP4 (H.264, 30 fps) con música de fondo alegre y motivadora.
+Música: pistas propias en tools/music/ (python3 tools/make_music.py). Opcional en spec.json: "music": "buen-dia" | "paso-firme" | "dia-soleado" | "none"; si se omite, rota según el nombre del video.
 """
 import os, sys
 from PIL import Image, ImageDraw, ImageFont
