@@ -1,0 +1,77 @@
+{
+  "article_slug": "como-aparecer-en-google-maps-restaurante",
+  "article_url": "https://blog.mesifly.com/como-aparecer-en-google-maps-restaurante/",
+  "video_name": "google-maps-short.mp4",
+  "music": "dia-soleado",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Tu restaurante aparece en Google Maps?",
+      "body": "5 tips para que te encuentren y te visiten. Gratis.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Reclama y verifica tu perfil",
+      "body": [
+        "Crea tu Perfil de Empresa de Google.",
+        "Usa una cuenta del negocio, no personal.",
+        "Sin verificar, muchos cambios no salen."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Elige bien tu categoría",
+      "body": [
+        "«Taquería» o «Cafetería», no solo «Restaurante».",
+        "Secundarias solo si de verdad aplican."
+      ],
+      "example": "Categoría específica\n= búsquedas de gente con hambre"
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Datos exactos y horarios al día",
+      "body": [
+        "Nombre real, sin palabras de más.",
+        "Pin del mapa en la puerta correcta.",
+        "Marca horarios especiales en festivos."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Agrega el link de tu menú",
+      "body": [
+        "Mucha gente decide viendo el menú.",
+        "Que abra rápido en el celular.",
+        "Nada de PDF pesado o foto borrosa."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Fotos nuevas y reseñas",
+      "body": [
+        "Sube 2 o 3 fotos reales cada semana.",
+        "Pide la reseña cuando te dicen «¡qué rico!».",
+        "Responde todas, también las malas."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Tu menú, listo para Google Maps",
+      "body": "Con Mesifly tienes tu menú digital en un link y QR. Quien te encuentra en el mapa lo ve y te hace su pedido sin registrarse.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
