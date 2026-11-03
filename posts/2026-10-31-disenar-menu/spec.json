@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-disenar-el-menu-de-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-disenar-el-menu-de-un-restaurante/",
+  "video_name": "disenar-menu-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Tu menú vende o solo informa?",
+      "body": "5 tips para diseñar un menú que venda más.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Empieza por tus números",
+      "body": [
+        "Anota cuánto se vende cada platillo.",
+        "Calcula cuánto te deja cada uno.",
+        "Destaca los que venden y dejan más."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Menos opciones",
+      "body": [
+        "Quita lo que casi no se vende.",
+        "Junta variaciones en un solo platillo.",
+        "Referencia: 5 a 10 opciones por categoría."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Destaca tus estrellas",
+      "body": [
+        "Ponlas al inicio de cada categoría.",
+        "Una etiqueta: «Favorito de la casa».",
+        "Recuadro o foto solo en 2 o 3 platillos."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Descripciones que antojan",
+      "body": [
+        "Ingrediente + preparación + detalle especial.",
+        "Indica si es picante o para compartir.",
+        "Una o dos líneas bastan."
+      ],
+      "example": "«Pollo marinado y asado al carbón,\ncon salsa verde de la casa»"
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Precios sin distraer",
+      "body": [
+        "Al final de la descripción, mismo tamaño.",
+        "Evita la columna de precios a la derecha.",
+        "Sin puntitos que lleven la vista al número."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Cambia tu menú sin reimprimir",
+      "body": "Con Mesifly tu menú vive en un link y un QR con tu logo y colores. Actualizas un precio y se ve al instante, y tus clientes piden desde su celular.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
