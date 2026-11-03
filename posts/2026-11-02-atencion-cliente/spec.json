@@ -1,0 +1,78 @@
+{
+  "article_slug": "atencion-al-cliente-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/atencion-al-cliente-en-un-restaurante/",
+  "video_name": "atencion-cliente-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Tus clientes regresan o no vuelven?",
+      "body": "5 tips para mejorar tu atención al cliente.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Cuida los primeros 30 segundos",
+      "body": [
+        "Saluda con contacto visual al instante.",
+        "Si hay espera, di cuánto con honestidad.",
+        "Ofrece agua o el menú mientras esperan."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Haz tu menú fácil de entender",
+      "body": [
+        "Una línea por platillo: qué trae y tamaño.",
+        "Marca lo picante y lo más pedido.",
+        "Fotos reales y precios al día."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Confirma cada pedido",
+      "body": [
+        "Repítelo completo, con los cambios.",
+        "Usa abreviaturas que toda la cocina entienda.",
+        "Revisa el plato antes de que salga."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Maneja quejas sin defenderte",
+      "body": [
+        "Escucha sin interrumpir.",
+        "Discúlpate y resuelve en el momento.",
+        "Regresa a preguntar si ya quedó bien."
+      ],
+      "example": "Define antes qué puede ofrecer\ncada mesero sin pedir permiso"
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Entrena con situaciones reales",
+      "body": [
+        "15 minutos antes de abrir, 1 o 2 veces por semana.",
+        "Un compañero hace de cliente.",
+        "Que todos prueben los platillos."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Menos errores de comanda",
+      "body": "Con Mesifly tus clientes ven tu menú en un link o QR y piden desde su celular, sin registrarse. Tú recibes el pedido al instante en Telegram.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
