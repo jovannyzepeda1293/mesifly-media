@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-controlar-el-inventario-de-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-controlar-el-inventario-de-un-restaurante/",
+  "video_name": "inventario-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Sabes qué hay en tu almacén?",
+      "body": "5 tips para controlar tu inventario sin sistemas caros.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Haz una lista maestra",
+      "body": [
+        "Cada insumo con nombre claro.",
+        "Unidad, proveedor y último precio.",
+        "Agrúpalos: perecedero, seco, bebida."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Aplica PEPS",
+      "body": [
+        "Primero que entra, primero que sale.",
+        "Lo nuevo va atrás de lo que ya tenías.",
+        "Marca la fecha de llegada o apertura."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Cuenta según el producto",
+      "body": [
+        "Diario: carnes, lácteos, lo caro.",
+        "Semanal: verduras y bebidas.",
+        "Mensual: secos y desechables."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Fija tu punto de reorden",
+      "body": [
+        "Uso diario x días de entrega.",
+        "Súmale un día de margen.",
+        "Al llegar a esa cantidad, pide."
+      ],
+      "example": "Ejemplo: 3 kg de pollo al día\n3 x (2 + 1) = pide al llegar a 9 kg"
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Mide tu costo de alimentos",
+      "body": [
+        "Inicial + compras - final = costo.",
+        "Divídelo entre tus ventas de comida.",
+        "Compara mes contra mes."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "¿Se acabó un platillo?",
+      "body": "En Mesifly lo pones como Inactivo en segundos y tus clientes solo ven lo que sí hay. Además ves en el panel tus productos más pedidos.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
