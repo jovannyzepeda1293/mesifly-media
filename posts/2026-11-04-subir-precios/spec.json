@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-subir-precios-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-subir-precios-en-un-restaurante/",
+  "video_name": "subir-precios-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Subir precios sin perder clientes?",
+      "body": "5 tips para ajustar tu menú sin espantar a nadie.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Revisa tus números",
+      "body": [
+        "Recalcula el costo de tus 10 más vendidos.",
+        "Referencia común: costo de 25 % a 35 %.",
+        "Empieza por los que ya se salieron."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "No subas todo parejo",
+      "body": [
+        "Sube más lo que más subió de costo.",
+        "Cuida tus productos gancho.",
+        "Ajusta extras y bebidas especiales."
+      ],
+      "example": "Ejemplo: americano igual,\nlattes +5 % y postres +12 %"
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Poco y seguido",
+      "body": [
+        "Revisa precios cada seis meses.",
+        "Un salto grande sí se nota.",
+        "Evita subir en temporada baja."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Agrega valor",
+      "body": [
+        "Mejor presentación del plato.",
+        "Un detalle extra de bajo costo.",
+        "Nunca reduzcas la porción a escondidas."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Mide y corrige",
+      "body": [
+        "Observa 4 a 6 semanas.",
+        "Compara pedidos, ticket y ganancia.",
+        "Si un platillo cae, ajústalo."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Cambia un precio en segundos",
+      "body": "En Mesifly actualizas tu menú en el panel y se refleja al instante en tu link y en el QR de tus mesas. Sin reimprimir nada.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
