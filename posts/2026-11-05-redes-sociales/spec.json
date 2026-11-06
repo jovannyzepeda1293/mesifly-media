@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-promocionar-un-restaurante-en-redes-sociales",
+  "article_url": "https://blog.mesifly.com/como-promocionar-un-restaurante-en-redes-sociales/",
+  "video_name": "redes-sociales-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "Tus redes pueden traerte más pedidos",
+      "body": "5 tips para promocionar tu negocio sin agencia.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Pocas redes, bien hechas",
+      "body": [
+        "Elige 1 o 2 donde están tus clientes.",
+        "Mejor bien en pocas que mal en muchas.",
+        "Crea el hábito y luego suma otra."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Un perfil que vende",
+      "body": [
+        "Qué vendes, horario y zona.",
+        "Logo claro como foto de perfil.",
+        "Link directo a tu menú en la bio."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Videos cortos del día",
+      "body": [
+        "El queso derritiéndose, el café sirviéndose.",
+        "Tu platillo estrella en 15 segundos.",
+        "Abre con la toma más antojable."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Constancia con calendario",
+      "body": [
+        "3 a 4 publicaciones por semana.",
+        "Graba varias en un solo día.",
+        "Prográmalas y olvídate."
+      ],
+      "example": "Ejemplo: lunes promo, miércoles video,\nviernes platillo estrella"
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Facilita el pedido",
+      "body": [
+        "Cierra cada post con una acción.",
+        "Responde «¿precio?» con tu link.",
+        "Pregunta: «¿Cómo nos conociste?»"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Convierte seguidores en pedidos",
+      "body": "Con Mesifly tienes tu menú en un link y QR para tu bio. Tus clientes piden sin registrarse y te llega al instante por Telegram.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
