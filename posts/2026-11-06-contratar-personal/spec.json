@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-contratar-personal-para-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-contratar-personal-para-un-restaurante/",
+  "video_name": "contratar-personal-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "Contrata gente que sí se quede",
+      "body": "5 tips para armar un buen equipo sin recursos humanos.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Define el puesto",
+      "body": [
+        "Qué hará, qué días y qué horas.",
+        "Qué debe saber y qué le enseñas.",
+        "Cuánto pagas y cada cuándo."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Actitud antes que técnica",
+      "body": [
+        "Tomar una orden se aprende en días.",
+        "La amabilidad y puntualidad, no.",
+        "En cocina sí pide experiencia."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Preguntas prácticas",
+      "body": [
+        "Entrevista corta: 15 a 20 minutos.",
+        "Pregunta por situaciones reales.",
+        "Fíjate en cómo responde."
+      ],
+      "example": "Ejemplo: «Un plato llegó frío.\n¿Qué haces?»"
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Día de prueba pagado",
+      "body": [
+        "Un turno real dice más que la entrevista.",
+        "Asígnale un guía de tu equipo.",
+        "Pregunta a tu equipo qué opinan."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Cuida a los buenos",
+      "body": [
+        "Paga a tiempo, siempre.",
+        "Horarios con anticipación.",
+        "Reconoce el buen trabajo en voz alta."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Menos errores con gente nueva",
+      "body": "Con Mesifly tu menú vive en un link y QR, los pedidos llegan directo al panel y a Telegram, y cada empleado tiene su cuenta con permisos.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
