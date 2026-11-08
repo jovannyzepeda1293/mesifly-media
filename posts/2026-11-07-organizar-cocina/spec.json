@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-organizar-la-cocina-de-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-organizar-la-cocina-de-un-restaurante/",
+  "video_name": "organizar-cocina-short.mp4",
+  "music": "dia-soleado",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "Una cocina en orden, sin caos",
+      "body": "5 tips para sobrevivir la hora pico con lo que ya tienes.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Divide por estaciones",
+      "body": [
+        "Preparación, cocción, emplatado y lavado.",
+        "Cada zona con sus utensilios.",
+        "Un responsable por turno."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Cada cosa en su lugar",
+      "body": [
+        "Etiqueta repisas y contenedores.",
+        "Lo que más usas, a la mano.",
+        "Al cerrar, todo regresa a su lugar."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Ordena con PEPS",
+      "body": [
+        "Primero en entrar, primero en salir.",
+        "Lo nuevo atrás, lo viejo adelante.",
+        "Carnes crudas siempre abajo."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Lista de producción",
+      "body": [
+        "Prepara antes de abrir, no en la hora pico.",
+        "Basada en lo que vendiste la semana pasada.",
+        "Cada tarea con dueño y hora límite."
+      ],
+      "example": "Ejemplo: vendes 40 pollos los martes.\nDeja 45 porcionados antes de abrir."
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Pedidos en un solo lugar",
+      "body": [
+        "Nada de papelitos ni gritos.",
+        "Cada pedido con detalle y notas.",
+        "Atiende en orden de llegada."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Pedidos claros para tu cocina",
+      "body": "Con Mesifly tus clientes piden desde tu menú digital y el pedido llega al instante a Telegram y a tu panel, con sus notas para la cocina.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
