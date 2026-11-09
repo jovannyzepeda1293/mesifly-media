@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-hacer-un-corte-de-caja-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-hacer-un-corte-de-caja-en-un-restaurante/",
+  "video_name": "corte-de-caja-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Tu caja no cuadra al cerrar?",
+      "body": "5 pasos para un corte de caja sin faltantes misteriosos.",
+      "hint": "Desliza para ver los pasos"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "PASO 1 DE 5",
+      "title": "Abre con fondo fijo",
+      "body": [
+        "Siempre la misma cantidad.",
+        "Cuéntalo frente al cajero.",
+        "Monedas y billetes chicos."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "PASO 2 DE 5",
+      "title": "Registra cada venta",
+      "body": [
+        "Nada sale sin ticket.",
+        "Anota la forma de pago.",
+        "Cancelaciones con motivo."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "PASO 3 DE 5",
+      "title": "Anota entradas y salidas",
+      "body": [
+        "Gas, hielo, adelantos: todo cuenta.",
+        "Monto, motivo y quién la hizo.",
+        "Guarda el comprobante."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "PASO 4 DE 5",
+      "title": "Calcula lo esperado",
+      "body": [
+        "Suma fondo y ventas en efectivo.",
+        "Suma entradas y resta salidas.",
+        "Tarjeta y transferencia, aparte."
+      ],
+      "example": "Ejemplo: 50 + 420 + 20 - 35\n= $455 esperados en caja."
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "PASO 5 DE 5",
+      "title": "Cuenta e investiga",
+      "body": [
+        "Por denominación y dos veces.",
+        "Revisa cambio y cobros mal anotados.",
+        "Guarda cada corte con fecha."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Que no se te escape ningún pedido",
+      "body": "Con Mesifly tus clientes piden desde tu menú digital y cada pedido llega al instante a Telegram y a tu panel, listo para revisar al cerrar.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
