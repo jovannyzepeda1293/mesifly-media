@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-responder-resenas-negativas-restaurante",
+  "article_url": "https://blog.mesifly.com/como-responder-resenas-negativas-restaurante/",
+  "video_name": "resenas-negativas-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Te dejaron una mala reseña?",
+      "body": "5 tips para responderla y ganar la confianza de otros clientes.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "No respondas en caliente",
+      "body": [
+        "Lee, cierra y vuelve más tarde.",
+        "Pide a alguien que lea tu borrador.",
+        "Contesta en uno o dos días."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Investiga qué pasó",
+      "body": [
+        "Revisa fecha, hora y turno.",
+        "¿Faltó personal o un ingrediente?",
+        "Busca el pedido por escrito."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Usa 4 partes",
+      "body": [
+        "Agradece y reconoce el problema.",
+        "Di qué cambiaste.",
+        "Invita a hablar en privado."
+      ],
+      "example": "Ejemplo: «Tienes razón, faltó\nalguien en la plancha. Ya ajustamos»."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Nunca discutas en público",
+      "body": [
+        "Aunque tengas razón, pierdes tú.",
+        "Corrige datos con calma.",
+        "No publiques datos del cliente."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Arregla la causa",
+      "body": [
+        "Agrupa las quejas por tema.",
+        "Espera, errores, platillos agotados.",
+        "Responde también las buenas."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Menos quejas por pedidos confusos",
+      "body": "Con Mesifly tu menú digital está siempre al día y cada pedido llega por escrito a Telegram y a tu panel.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
