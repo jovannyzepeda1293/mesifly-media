@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-cobrar-el-empaque-para-llevar",
+  "article_url": "https://blog.mesifly.com/como-cobrar-el-empaque-para-llevar/",
+  "video_name": "empaque-para-llevar-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA RESTAURANTES Y CAFETERÍAS",
+      "title": "¿Regalas el empaque para llevar?",
+      "body": "5 tips para cobrarlo sin que el cliente se moleste.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Calcula el costo real",
+      "body": [
+        "Precio del paquete ÷ piezas.",
+        "Suma tapa, salsas, cubiertos y bolsa.",
+        "Agrega un poco por merma."
+      ],
+      "example": "Ejemplo: contenedor $0.18 + extras\n= $0.32 por pedido."
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Arma kits de empaque",
+      "body": [
+        "Kit bebida, platillo y líquido.",
+        "Kit para pedidos grandes.",
+        "Empacas más rápido y sabes el costo."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Elige tu modelo",
+      "body": [
+        "Cargo fijo por pedido.",
+        "Cargo por pieza.",
+        "O inclúyelo en el precio."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Muéstralo antes de pedir",
+      "body": [
+        "Ponlo en tu menú y pizarrón.",
+        "Nada de sorpresas al pagar.",
+        "Ofrece «trae tu recipiente»."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Revísalo cada mes",
+      "body": [
+        "Cuenta empaques como un insumo.",
+        "Compara usados contra pedidos.",
+        "Si sube el proveedor, ajusta."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Tu cargo claro desde el menú",
+      "body": "Con Mesifly pones la nota del empaque en tu menú digital y tu cliente la ve en el link o QR antes de pedir.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
