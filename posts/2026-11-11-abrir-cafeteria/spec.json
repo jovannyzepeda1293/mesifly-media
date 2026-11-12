@@ -1,0 +1,79 @@
+{
+  "article_slug": "como-abrir-una-cafeteria-pequena",
+  "article_url": "https://blog.mesifly.com/como-abrir-una-cafeteria-pequena/",
+  "video_name": "abrir-cafeteria-short.mp4",
+  "music": "dia-soleado",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA QUIEN QUIERE EMPRENDER",
+      "title": "¿Vas a abrir una cafetería pequeña?",
+      "body": "5 tips para empezar bien y no perder dinero.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Define tu concepto",
+      "body": [
+        "¿Para llevar, de quedarse o con comida?",
+        "Describe a tu cliente en una frase.",
+        "Esa frase decide todo lo demás."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Ubicación por flujo",
+      "body": [
+        "Visita la zona a distintas horas.",
+        "Cuenta cuánta gente pasa.",
+        "Renta barata sin paso sale cara."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Menú corto y costeado",
+      "body": [
+        "5 cafés, opciones sin café y pan.",
+        "Suma café, leche, vaso y merma.",
+        "No copies precios del vecino."
+      ],
+      "example": "Ejemplo: latte de $0.90 en insumos\n= precio de $3.00 a $3.60."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Saca tu equilibrio",
+      "body": [
+        "Costos fijos ÷ margen por venta.",
+        "Divide entre los días que abres.",
+        "Así sabes tus ventas mínimas."
+      ],
+      "example": "Ejemplo: $3,000 fijos ÷ $2.80\n= unas 41 ventas al día."
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Apertura que deja clientes",
+      "body": [
+        "Abre suave con vecinos primero.",
+        "Perfil de Google con tu menú.",
+        "Deja tu QR en oficinas cercanas."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Tu menú en link y QR desde el día uno",
+      "body": "Con Mesifly subes la foto de tu menú, la IA lo arma y te llegan los pedidos al instante por Telegram.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
