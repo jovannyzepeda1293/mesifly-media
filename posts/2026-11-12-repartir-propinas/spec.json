@@ -1,0 +1,79 @@
+{
+  "article_slug": "como-repartir-las-propinas-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-repartir-las-propinas-en-un-restaurante/",
+  "video_name": "repartir-propinas-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA DUEÑOS DE RESTAURANTES",
+      "title": "¿Las propinas causan pleitos en tu equipo?",
+      "body": "5 tips para repartirlas de forma clara y justa.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Reglas por escrito",
+      "body": [
+        "Quién participa y con qué método.",
+        "Cada cuánto se reparte.",
+        "Explícalo desde el primer día."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Reparto por puntos",
+      "body": [
+        "Cada puesto vale ciertos puntos.",
+        "Total ÷ puntos = valor del punto.",
+        "Acuérdalo con el equipo."
+      ],
+      "example": "Ejemplo: $300 ÷ 10 puntos = $30\nMesero con 3 puntos = $90."
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "O por horas trabajadas",
+      "body": [
+        "Ideal con medio tiempo o turnos.",
+        "Total ÷ horas = valor por hora.",
+        "Registra bien las horas."
+      ],
+      "example": "Ejemplo: $300 ÷ 120 h = $2.50\n40 horas = $100."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Aparte de la venta",
+      "body": [
+        "Anota la propina en cada cobro.",
+        "Separa efectivo y tarjeta.",
+        "Súmala fuera del corte de caja."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Reparte a la vista",
+      "body": [
+        "Día y hora fijos.",
+        "Muestra la tabla de montos.",
+        "No la uses para tapar faltantes."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Pedidos claros, mejor servicio, más propina",
+      "body": "Con Mesifly tienes tu menú en link y QR, y los pedidos te llegan al instante por Telegram.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
