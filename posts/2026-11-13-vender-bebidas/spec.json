@@ -1,0 +1,79 @@
+{
+  "article_slug": "como-vender-mas-bebidas-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-vender-mas-bebidas-en-un-restaurante/",
+  "video_name": "vender-bebidas-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA DUEÑOS DE RESTAURANTES",
+      "title": "¿Tus bebidas solo son relleno?",
+      "body": "5 tips para que dejen más dinero en cada pedido.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Saca su costo real",
+      "body": [
+        "Ingredientes, vaso, tapa y hielo.",
+        "Suma la merma.",
+        "Costo ÷ precio = % de costo."
+      ],
+      "example": "Ejemplo: limonada cuesta $0.45\ny se vende a $2.50 = 18 % de costo."
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Carta corta y clara",
+      "body": [
+        "Agrupa por tipo de bebida.",
+        "De 3 a 6 opciones por grupo.",
+        "Quita las que nadie pide."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Ofrécela con nombre",
+      "body": [
+        "No digas «¿algo de tomar?».",
+        "Sugiere dos opciones concretas.",
+        "Café o bebida con el postre."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Combos con bebida",
+      "body": [
+        "Platillo + bebida con descuento.",
+        "Jarra para grupos.",
+        "Revisa que siga dejando margen."
+      ],
+      "example": "Ejemplo: $7 + $2.50 = $9.50\nCombo a $8.75 y vendes la bebida."
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Fotos, tamaños y extras",
+      "body": [
+        "Foto con luz natural en el menú.",
+        "Chico y grande.",
+        "Extras con precio calculado."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Que tus bebidas se vendan solas",
+      "body": "Con Mesifly tienes tu menú en link y QR con foto en cada bebida, y los pedidos te llegan al instante.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
