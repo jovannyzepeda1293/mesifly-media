@@ -1,0 +1,79 @@
+{
+  "article_slug": "como-calcular-cuanta-comida-preparar-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-calcular-cuanta-comida-preparar-en-un-restaurante/",
+  "video_name": "cuanta-comida-preparar-short.mp4",
+  "music": "dia-soleado",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA DUEÑOS DE RESTAURANTES",
+      "title": "¿Preparas de más o te quedas corto?",
+      "body": "5 tips para calcular cuánta comida preparar cada día.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Anota lo que vendes",
+      "body": [
+        "Porciones por platillo, cada día.",
+        "Separa por día de la semana.",
+        "Marca los días raros."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Promedio + margen",
+      "body": [
+        "Promedio de cada día de la semana.",
+        "Deja fuera lluvias y feriados.",
+        "Suma un margen de 10 %."
+      ],
+      "example": "Ejemplo: viernes 38, 42 y 40 = 40\n40 + 10 % = 44 órdenes."
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Pásalo a kilos",
+      "body": [
+        "Usa el peso de tu receta estándar.",
+        "Mide tu rendimiento una vez.",
+        "Divide entre el rendimiento."
+      ],
+      "example": "Ejemplo: 44 x 180 g = 7.9 kg cocido\n7.9 ÷ 0.70 = 11.3 kg crudo."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Prepara en tandas",
+      "body": [
+        "Primera tanda: 60 a 70 %.",
+        "A media jornada revisa la venta.",
+        "Deja listas las bases."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Ajusta cada semana",
+      "body": [
+        "Anota lo que sobró al cierre.",
+        "¿Se acabó antes? Sube un poco.",
+        "¿Siempre sobra? Bájalo."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Sabe qué se vende antes de cocinar",
+      "body": "Con Mesifly tu menú vive en link y QR, los pedidos te llegan al instante y ves tus productos más pedidos.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
