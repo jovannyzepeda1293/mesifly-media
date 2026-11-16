@@ -1,0 +1,79 @@
+{
+  "article_slug": "comisiones-apps-de-delivery",
+  "article_url": "https://blog.mesifly.com/comisiones-apps-de-delivery/",
+  "video_name": "comisiones-delivery-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "PARA DUEÑOS DE RESTAURANTES",
+      "title": "¿Cuánto te quitan las apps de delivery?",
+      "body": "5 tips para pagar menos comisión sin perder ventas.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Haz cuentas por pedido",
+      "body": [
+        "Las apps cobran del 15 al 30 %.",
+        "Se cobra sobre la venta, no la ganancia.",
+        "Resta comisión, ingredientes y empaque."
+      ],
+      "example": "Ejemplo: pedido de $20 con 25 %\nla app se queda con $5."
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Mide de dónde vienen",
+      "body": [
+        "Anota pedidos por canal 2 semanas.",
+        "Cuenta cuántos clientes repiten.",
+        "Ahí está tu ahorro posible."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Revisa tu plan",
+      "body": [
+        "Más visibilidad = más comisión.",
+        "Si te buscan por nombre, basta el básico.",
+        "Compara unas semanas antes de decidir."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Menú corto en la app",
+      "body": [
+        "Solo platillos con buen margen.",
+        "Que viajen bien y lleguen calientes.",
+        "Menos quejas, menos reembolsos."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Lleva a tus clientes fieles",
+      "body": [
+        "Mete tu QR en cada bolsa.",
+        "Dales una razón para pedir directo.",
+        "App para atraer, canal propio para volver."
+      ],
+      "example": "Ejemplo: 120 pedidos de $20 al mes\nahorras $600 en comisiones."
+    },
+    {
+      "type": "cta",
+      "title": "Recibe pedidos sin comisión",
+      "body": "Con Mesifly tu menú vive en link y QR, y los pedidos te llegan al instante. Cuota fija, sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
