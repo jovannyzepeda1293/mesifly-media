@@ -1,0 +1,79 @@
+{
+  "article_slug": "marketing-para-restaurantes",
+  "article_url": "https://blog.mesifly.com/marketing-para-restaurantes/",
+  "video_name": "marketing-restaurantes-short.mp4",
+  "music": "dia-soleado",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "MARKETING PARA RESTAURANTES",
+      "title": "Más clientes sin gastar de más",
+      "body": "5 pasos para que te encuentren, te pidan y regresen.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "PASO 1 DE 5",
+      "title": "Arregla tu Google",
+      "body": [
+        "Verifica tu Perfil de Empresa.",
+        "Horarios reales y 10 fotos reales.",
+        "Pide reseñas y respóndelas todas."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "PASO 2 DE 5",
+      "title": "Que pedir sea fácil",
+      "body": [
+        "Tu menú en un link con precios.",
+        "El mismo link en Google y redes.",
+        "QR en mesas y mostrador."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "PASO 3 DE 5",
+      "title": "Fija tu presupuesto",
+      "body": [
+        "Referencia: 3 a 6 % de tus ventas.",
+        "Negocio nuevo: más cerca del 6 %.",
+        "Sale de un número fijo, no de lo que sobre."
+      ],
+      "example": "Ejemplo: vendes $12,000 al mes\n4 % = $480 para marketing."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "PASO 4 DE 5",
+      "title": "Haz que regresen",
+      "body": [
+        "Un anuncio rinde si el cliente vuelve.",
+        "Dale una razón: el especial del jueves.",
+        "Lista de WhatsApp, 1 o 2 mensajes."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "PASO 5 DE 5",
+      "title": "Mide cada semana",
+      "body": [
+        "Pregunta: ¿cómo nos conociste?",
+        "Clientes nuevos, pedidos y ticket.",
+        "Más presupuesto a lo que funciona."
+      ],
+      "example": "Ejemplo: $150 en anuncios, 30 clientes\n= $5 por cliente nuevo."
+    },
+    {
+      "type": "cta",
+      "title": "Que te pidan fácil",
+      "body": "Con Mesifly tu menú vive en un link y un QR, tus clientes piden sin descargar nada y el pedido te llega al instante. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
