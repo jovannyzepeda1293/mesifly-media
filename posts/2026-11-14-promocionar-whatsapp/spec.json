@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-promocionar-tu-restaurante-por-whatsapp",
+  "article_url": "https://blog.mesifly.com/como-promocionar-tu-restaurante-por-whatsapp/",
+  "video_name": "promocionar-whatsapp-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "WHATSAPP PARA RESTAURANTES",
+      "title": "Vende más con WhatsApp",
+      "body": "5 tips para promocionar tu negocio sin saturar a nadie.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Usa WhatsApp Business",
+      "body": [
+        "Un número solo del negocio.",
+        "Perfil con horario y dirección.",
+        "Logo o tu platillo estrella."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Comparte tu menú en link",
+      "body": [
+        "Nada de fotos borrosas de la carta.",
+        "Link en el perfil y en la bienvenida.",
+        "Y en cada Estado y promoción."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Automatiza respuestas",
+      "body": [
+        "Mensaje de bienvenida y de ausencia.",
+        "Respuestas rápidas: horario, pagos.",
+        "Revísalas cada mes."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Pocos mensajes, buenos",
+      "body": [
+        "1 o 2 difusiones por semana.",
+        "Gancho + oferta + link + cierre.",
+        "Estados de 1 a 3 al día."
+      ],
+      "example": "Ejemplo: «Hoy hay sopa de la casa.\nPlato + agua por $6, hasta las 4 p. m.»"
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Saca pedidos del chat",
+      "body": [
+        "WhatsApp para invitar.",
+        "El link de tu menú para pedir.",
+        "Así no se revuelven los pedidos."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Invita por WhatsApp, vende con tu link",
+      "body": "Con Mesifly tu menú vive en un link y un QR. Tu cliente pide sin descargar nada y el pedido te llega al instante en Telegram. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
