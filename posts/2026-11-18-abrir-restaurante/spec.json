@@ -1,0 +1,79 @@
+{
+  "article_slug": "como-abrir-un-restaurante-pequeno",
+  "article_url": "https://blog.mesifly.com/como-abrir-un-restaurante-pequeno/",
+  "video_name": "abrir-restaurante-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "ABRIR UN RESTAURANTE PEQUEÑO",
+      "title": "Abre tu restaurante sin perder tus ahorros",
+      "body": "5 pasos en orden: primero números, luego local.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "PASO 1 DE 5",
+      "title": "Concepto en una frase",
+      "body": [
+        "Qué vendes y a quién.",
+        "A qué precio y en qué horario.",
+        "Por qué te elegirían a ti."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "PASO 2 DE 5",
+      "title": "Junta un colchón",
+      "body": [
+        "Inversión inicial + 10 % imprevistos.",
+        "Más 3 a 6 meses de costos fijos.",
+        "Ese dinero no es para equipo."
+      ],
+      "example": "Ejemplo: fijos de $5,600 al mes\n3 meses = $16,800 de colchón."
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "PASO 3 DE 5",
+      "title": "Clientes para no perder",
+      "body": [
+        "Calcula tu punto de equilibrio.",
+        "Hazlo antes de firmar el local.",
+        "Si no da, cambia local o precio."
+      ],
+      "example": "Ejemplo: $5,600 / $5.58 por ticket\n= 1,004 al mes, 39 al día."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "PASO 4 DE 5",
+      "title": "Permisos antes de firmar",
+      "body": [
+        "Confirma el uso de suelo.",
+        "Pide la lista por escrito.",
+        "Negocia una cláusula de salida."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "PASO 5 DE 5",
+      "title": "Menú corto y apertura suave",
+      "body": [
+        "Pocos platillos, todos costeados.",
+        "1 a 2 semanas de práctica.",
+        "Corrige fallas y luego lanza."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Abre con tu menú listo",
+      "body": "Con Mesifly tu menú vive en un link y un QR, tus clientes piden sin descargar nada y el pedido te llega al instante. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
