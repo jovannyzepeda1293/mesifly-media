@@ -1,0 +1,79 @@
+{
+  "article_slug": "como-administrar-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-administrar-un-restaurante/",
+  "video_name": "administrar-restaurante-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "ADMINISTRAR UN RESTAURANTE",
+      "title": "¿Vendes mucho pero no te queda dinero?",
+      "body": "5 hábitos para que tu negocio sí deje ganancia.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Separa tu dinero",
+      "body": [
+        "Una cuenta para el negocio.",
+        "Otra cuenta para ti.",
+        "Ponte un sueldo fijo."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Corte de caja diario",
+      "body": [
+        "Fondo + ventas en efectivo − retiros.",
+        "Compara con lo que contaste.",
+        "Si hay diferencia, investiga hoy."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Mide tu costo primo",
+      "body": [
+        "Costo de alimentos + personal.",
+        "Revísalo cada semana.",
+        "Referencia común: 60 a 65 %."
+      ],
+      "example": "Ejemplo: $7,000 + $6,600 de $20,000\n= 68 % de costo primo."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Recetas y turnos por escrito",
+      "body": [
+        "Gramos exactos por porción.",
+        "Más gente solo en horas pico.",
+        "Checklist de apertura y cierre."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Rutina de 10, 30 y 60",
+      "body": [
+        "10 min al día: caja y ventas.",
+        "30 min a la semana: costos.",
+        "1 hora al mes: utilidad."
+      ],
+      "example": "Ejemplo: con esto la utilidad pasó\nde $2,000 a $3,680 al mes."
+    },
+    {
+      "type": "cta",
+      "title": "Tus pedidos en un solo lugar",
+      "body": "Con Mesifly tu menú vive en un link y un QR, tus clientes piden sin descargar nada y el pedido te llega al instante. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
