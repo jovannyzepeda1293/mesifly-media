@@ -1,0 +1,78 @@
+{
+  "article_slug": "como-vender-desayunos-en-tu-restaurante",
+  "article_url": "https://blog.mesifly.com/como-vender-desayunos-en-tu-restaurante/",
+  "video_name": "vender-desayunos-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "VENDER DESAYUNOS",
+      "title": "¿Tus mañanas están vacías?",
+      "body": "5 pasos para que el desayuno te deje ganancia.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "PASO 1 DE 5",
+      "title": "Cuenta a la gente",
+      "body": [
+        "Mira tu calle de 7 a 11.",
+        "Oficinas, escuelas, gimnasios.",
+        "¿Van con prisa o con tiempo?"
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "PASO 2 DE 5",
+      "title": "Menú corto",
+      "body": [
+        "De 8 a 12 opciones.",
+        "Que compartan ingredientes.",
+        "Incluye algo para llevar."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "PASO 3 DE 5",
+      "title": "Saca tu punto de equilibrio",
+      "body": [
+        "Costo extra de abrir temprano.",
+        "Divídelo entre tu ganancia por ticket.",
+        "Así sabes cuántos vender."
+      ],
+      "example": "Ejemplo: $20 al día ÷ $3.40 por ticket\n= 6 desayunos y ya no pierdes."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "PASO 4 DE 5",
+      "title": "Paquetes con bebida",
+      "body": [
+        "Rápido: café + pan.",
+        "Completo: plato + café + jugo.",
+        "Ligero: avena + té o café."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "PASO 5 DE 5",
+      "title": "Gana en velocidad",
+      "body": [
+        "Prepara desde la noche anterior.",
+        "Deja que pidan antes de llegar.",
+        "Prueba al menos 4 semanas."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Que pidan antes de llegar",
+      "body": "Con Mesifly tu menú de desayunos vive en un link y un QR, tus clientes piden sin descargar nada y el pedido te llega al instante. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
