@@ -1,0 +1,79 @@
+{
+  "article_slug": "ficha-tecnica-de-un-platillo",
+  "article_url": "https://blog.mesifly.com/ficha-tecnica-de-un-platillo/",
+  "video_name": "ficha-tecnica-short.mp4",
+  "music": "dia-soleado",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "FICHA TÉCNICA DE UN PLATILLO",
+      "title": "¿Tu platillo sale distinto cada día?",
+      "body": "5 pasos para que salga igual y sepas cuánto cuesta.",
+      "hint": "Desliza para ver los pasos"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "PASO 1 DE 5",
+      "title": "Empieza por tus 5 más vendidos",
+      "body": [
+        "Ahí está la mayor parte del costo.",
+        "Y también la mayoría de las quejas.",
+        "Luego sigue con el resto."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "PASO 2 DE 5",
+      "title": "Pesa todo",
+      "body": [
+        "Báscula al lado de la olla.",
+        "Gramos y mililitros, nada de «al gusto».",
+        "Incluye aceite, sal y especias."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "PASO 3 DE 5",
+      "title": "Porción y utensilio fijos",
+      "body": [
+        "Define gramos o piezas por plato.",
+        "Sirve con cucharón o molde medido.",
+        "Si depende del ojo, no sirve."
+      ],
+      "example": "Ejemplo: 20 % más pollo por plato\n= unos $202 al mes regalados."
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "PASO 4 DE 5",
+      "title": "Calcula el costo por porción",
+      "body": [
+        "Suma el costo de cada ingrediente.",
+        "Agrega 3 a 5 % de imprevistos.",
+        "Divide entre las porciones."
+      ],
+      "example": "Ejemplo: $18.57 ÷ 10 porciones\n= $1.86 por plato."
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "PASO 5 DE 5",
+      "title": "Pruébala con otra persona",
+      "body": [
+        "Que la prepare solo leyendo.",
+        "Si no sale igual, falta información.",
+        "Ponla a la vista en la cocina."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Tu menú siempre al día",
+      "body": "Con Mesifly cambias un precio o una foto desde el celular y tu menú en link y QR se actualiza al instante. Además ves tus platillos más pedidos. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
