@@ -1,0 +1,78 @@
+{
+  "article_slug": "normas-de-higiene-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/normas-de-higiene-en-un-restaurante/",
+  "video_name": "normas-higiene-short.mp4",
+  "music": "buen-dia",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "HIGIENE EN TU RESTAURANTE",
+      "title": "¿Tu cocina pasaría una inspección hoy?",
+      "body": "5 normas que evitan multas, malas reseñas y clientes enfermos.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Evita la zona de peligro",
+      "body": [
+        "Lo frío, a 5 °C o menos.",
+        "Lo caliente, a 60 °C o más.",
+        "Máximo 2 horas en medio."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Manos: 20 segundos",
+      "body": [
+        "Con jabón, al empezar el turno.",
+        "Y al cambiar de tarea.",
+        "Los guantes no lo sustituyen."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Crudo abajo, cocido arriba",
+      "body": [
+        "En el refrigerador y en la mesa.",
+        "Tablas distintas para cada uno.",
+        "Todo tapado y con fecha."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Enfría en charolas bajas",
+      "body": [
+        "Nunca la olla entera al refri.",
+        "Usa baño de hielo.",
+        "De 60 °C a 21 °C en 2 horas."
+      ],
+      "example": "Ejemplo: 8 litros de frijoles\n= 4 charolas de 2 litros."
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Checklist con firma",
+      "body": [
+        "Temperaturas al abrir y cerrar.",
+        "Un responsable por turno.",
+        "Si no está escrito, no pasó."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Menos cartas en las mesas",
+      "body": "Con Mesifly tu menú vive en un link y QR: el cliente lo ve en su celular y pide sin registrarse. Recibes los pedidos al instante. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
