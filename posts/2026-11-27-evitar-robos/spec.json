@@ -1,0 +1,79 @@
+{
+  "article_slug": "como-evitar-robos-en-un-restaurante",
+  "article_url": "https://blog.mesifly.com/como-evitar-robos-en-un-restaurante/",
+  "video_name": "evitar-robos-short.mp4",
+  "music": "paso-firme",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "ROBO HORMIGA EN TU NEGOCIO",
+      "title": "¿Se te está yendo la ganancia?",
+      "body": "5 controles simples para evitar robos en tu restaurante.",
+      "hint": "Desliza para ver los tips"
+    },
+    {
+      "type": "step",
+      "n": "1",
+      "label": "TIP 1 DE 5",
+      "title": "Sin pedido, no sale plato",
+      "body": [
+        "Cada venta queda registrada.",
+        "Ninguna comanda sin pedido.",
+        "Lo que no se anota, desaparece."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "2",
+      "label": "TIP 2 DE 5",
+      "title": "Una persona por caja",
+      "body": [
+        "Un responsable por turno.",
+        "Fondo fijo al abrir.",
+        "Corte de caja al cerrar."
+      ],
+      "example": "Fondo + ventas en efectivo\n+ entradas - salidas = esperado"
+    },
+    {
+      "type": "step",
+      "n": "3",
+      "label": "TIP 3 DE 5",
+      "title": "Cancelar con permiso",
+      "body": [
+        "Solo el encargado cancela.",
+        "Siempre con motivo escrito.",
+        "Revisa cuántas hay por persona."
+      ]
+    },
+    {
+      "type": "step",
+      "n": "4",
+      "label": "TIP 4 DE 5",
+      "title": "Cuenta lo caro cada semana",
+      "body": [
+        "Tus 10 a 15 insumos más caros.",
+        "Compara contra tus recetas.",
+        "La diferencia es tu fuga."
+      ],
+      "example": "Ejemplo: debiste gastar $12,000\ny gastaste $13,800 = fuga de $1,800"
+    },
+    {
+      "type": "step",
+      "n": "5",
+      "label": "TIP 5 DE 5",
+      "title": "Un PIN para cada quien",
+      "body": [
+        "Nunca compartas usuarios.",
+        "Permisos según el puesto.",
+        "Documenta antes de acusar."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Que cada pedido quede registrado",
+      "body": "Con Mesifly el cliente pide desde tu menú en link y QR, y el pedido llega al instante a tu panel y a Telegram. Empleados con permisos. Sin comisión por pedido.",
+      "button": "Prueba 14 días gratis",
+      "url": "app.mesifly.com"
+    }
+  ]
+}
